@@ -1,0 +1,3 @@
+The raspberry pi is functional with an OS installed in it. Cables are in good condition and is also functional.
+
+Ensuring power source, raspberry pi will run without any errors. Attaching cables needed for other external devices properly will make it functional. Therefore, the unit is fully functional.

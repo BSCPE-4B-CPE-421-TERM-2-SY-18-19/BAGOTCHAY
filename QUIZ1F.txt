@@ -1,0 +1,17 @@
+OBSERVATION:
+*When turned on, fans are running but just for a few seconds.
+*Motherboard leds light up.
+*Unit can't boot up.
+*Components are covered with dust.
+*We suspected that the power supply is faulty.
+*Found one bloated capacitor.
+
+PROBLEM:
+*The fuse in the power supply is blown.
+*Unit can't completely boot up.
+
+SOLUTION:
+*Check power connections of the power supply.
+*Check connections from the power supply to the motherboard.
+*Dust off dirt in the unit.
+*Try changing power supply.
